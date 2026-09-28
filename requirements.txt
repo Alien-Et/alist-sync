@@ -1,8 +1,8 @@
 # 核心依赖
-Flask==3.0.0
+Flask==3.1.3
 APScheduler==3.10.4
 croniter==2.0.1
 
 # Flask 必需的依赖
-Werkzeug==3.0.1
-Jinja2==3.1.2
+Werkzeug==3.1.6
+Jinja2==3.1.6

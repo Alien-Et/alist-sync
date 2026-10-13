@@ -4,5 +4,5 @@ APScheduler==3.10.4
 croniter==2.0.1
 
 # Flask 必需的依赖
-Werkzeug==3.1.6
+Werkzeug==3.1.9
 Jinja2==3.1.6
